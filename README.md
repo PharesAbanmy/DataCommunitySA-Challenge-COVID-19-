@@ -1,3 +1,2 @@
 # DataCommunitySA Challenge COVID-19
-First project on data analysis
-Feel free to use it <3
+The impact of temperature and humidity degrees on the number of (COVID-19) confirmed cases in China and Italy.
